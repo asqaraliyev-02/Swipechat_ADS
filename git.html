@@ -1,0 +1,52 @@
+git add .
+git commit -m "2"
+git push
+
+GitHub'ga loyiha papkangizdagi `node_modules` va `swipechat_bot` nomli papkalarni yuklamaslik uchun `.gitignore` faylidan foydalanishingiz kerak. Quyidagi qadamlar bilan buni amalga oshirishingiz mumkin:
+
+1. **Loyiha papkangizda `.gitignore` faylini yarating yoki oching**:
+   - Agar loyiha papkangizda `.gitignore` fayli bo'lmasa, uni yarating. Masalan, terminalda:
+     ```bash
+     touch .gitignore
+     ```
+
+<!-- 2. **`.gitignore` fayliga kerakli papkalarni qo'shing**:
+   - Faylni matn muharriri bilan oching (masalan, VS Code, Notepad yoki `nano` orqali) va quyidagi qatorlarni qo'shing: -->
+     ```
+     node_modules/
+     swipechat_bot/
+     ```
+   - Bu qatorlar `node_modules` va `swipechat_bot` papkalarining Git tomonidan kuzatilmasligini va GitHub'ga yuklanmasligini ta'minlaydi.
+
+<!-- 3. **O'zgarishlarni tasdiqlang**:
+   - Agar bu papkalar allaqachon Git repozitoriyingizda kuzatilayotgan bo'lsa, avval ularni olib tashlashingiz kerak. Terminalda quyidagi buyruqlarni bajaring:
+     ```bash -->
+     git rm -r --cached node_modules
+     git rm -r --cached swipechat_bot
+     ```
+   - Keyin o'zgarishlarni commit qiling:
+     ```bash
+     git add .gitignore
+     git commit -m "Ignore node_modules and swipechat_bot folders"
+     ```
+
+4. **GitHub'ga yuklash**:
+   - O'zgarishlarni GitHub'ga push qiling:
+     ```bash
+     git push origin main
+     ```
+     (Bu yerda `main` o'rniga sizning branch nomingiz bo'lsa, uni ishlatasiz, masalan, `master` yoki boshqa nom.)
+
+5. **Tekshirish**:
+   - GitHub repozitoriyingizga o'tib, `node_modules` va `swipechat_bot` papkalari yuklanmaganligini tekshiring.
+
+**Qo'shimcha maslahatlar**:
+- `.gitignore` fayliga boshqa keraksiz fayl yoki papkalarni ham qo'shishingiz mumkin, masalan:
+  ```
+  .env
+  *.log
+  dist/
+  ```
+  Bu fayllar odatda maxfiy ma'lumotlar yoki loyihaning muhim bo'lmagan qismlarini o'z ichiga oladi.
+
+Agar qo'shimcha savollar bo'lsa, yozing!
