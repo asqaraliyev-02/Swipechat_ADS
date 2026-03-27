@@ -27,11 +27,11 @@ Har bir video uchun **Raw** havolasini quyidagicha oling:
 **Misol:**
 
 ```
-https://github.com/asqaraliyev-02/Swipechat_ADS/blob/main/ads/batafsil.mp4
+https://github.com/asqaraliyev-02/Swipechat_ADS/raw/refs/heads/main/ads/batafsil.mp4
 ```
 
 📎 To‘g‘ridan-to‘g‘ri ochish:  
-https://github.com/asqaraliyev-02/Swipechat_ADS/blob/main/ads/batafsil.mp4
+https://github.com/asqaraliyev-02/Swipechat_ADS/raw/refs/heads/main/ads/batafsil.mp4
 
 ---
 
@@ -50,11 +50,11 @@ Bu bo‘limda homiylar uchun rasmlar joylashadi.
 **Misol:**
 
 ```
-https://github.com/asqaraliyev-02/Swipechat_ADS/blob/main/sponsors/RAND0MCHAT.jpg
+https://raw.githubusercontent.com/asqaraliyev-02/Swipechat_ADS/refs/heads/main/sponsors/RAND0MCHAT.jpg
 ```
 
 📎 To‘g‘ridan-to‘g‘ri ochish:  
-https://github.com/asqaraliyev-02/Swipechat_ADS/blob/main/sponsors/RAND0MCHAT.jpg
+https://raw.githubusercontent.com/asqaraliyev-02/Swipechat_ADS/refs/heads/main/sponsors/RAND0MCHAT.jpg
 
 ---
 
