@@ -38,4 +38,4 @@ https://raw.githubusercontent.com/asqaraliyev_02/Swipechat_ADS/main/ads/batafsil
 
 ## 🖼️ Homiy Rasmlari (Sponsors)
 
-https://raw.githubusercontent.com/asqaraliyev_02/Swipechat_ADS/main/sponsors/RAND0MCHAT.jpg
+https://raw.githubusercontent.com/asqaraliyev_02/Swipechat_ADS/main/sponsors/RAND0MCHAT.jpg# Swipechat_ADS
