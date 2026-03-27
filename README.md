@@ -26,9 +26,9 @@ Har bir video uchun **Raw** havolasini quyidagicha oling:
 ```markdown
 https://raw.githubusercontent.com/asqaraliyev_02/Swipechat_ADS/main/ads/batafsil.mp4
 
----
-
 ### 🖼️ Homiy Rasmlari (Sponsors)
 
 **Misol:**
 https://raw.githubusercontent.com/asqaraliyev_02/Swipechat_ADS/main/sponsors/RAND0MCHAT.jpg
+
+---
