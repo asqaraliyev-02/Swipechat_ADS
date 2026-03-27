@@ -30,4 +30,6 @@ https://raw.githubusercontent.com/asqaraliyev_02/Swipechat_ADS/main/ads/batafsil
 
 ## 🖼️ Homiy Rasmlari (Sponsors)
 
+**Misol:**
+```markdown
 https://raw.githubusercontent.com/asqaraliyev_02/Swipechat_ADS/main/sponsors/RAND0MCHAT.jpg
