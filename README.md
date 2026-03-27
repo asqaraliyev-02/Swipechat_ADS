@@ -4,14 +4,6 @@ Bu repository **Swipechat** loyihasi uchun reklama videolari va homiy rasmlarini
 
 ---
 
-## 📁 Papkalar tuzilishi
-Swipechat-Assets/
-├── ads/           ← Barcha reklama videolari shu yerda
-├── sponsors/      ← Barcha homiy rasmlari shu yerda
-└── README.md
-
----
-
 ## 🎥 Reklama Videolari
 
 Bu bo‘limda barcha reklama videolari joylashgan.
